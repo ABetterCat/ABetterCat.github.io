@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>风口浪尖</title>
+    <link>http://ABetterCat.github.io/</link>
+    <description>Recent content on 风口浪尖</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>haifeng1206011348@163.com (shf)</managingEditor>
+    <webMaster>haifeng1206011348@163.com (shf)</webMaster>
+    <copyright>(c) 2020 shf.</copyright><atom:link href="http://ABetterCat.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>http://ABetterCat.github.io/first/</link>
+      <pubDate>Wed, 02 Dec 2020 16:29:59 +0800</pubDate>
+      <author>haifeng1206011348@163.com (shf)</author>
+      <guid>http://ABetterCat.github.io/first/</guid>
+      <description>老牛逼了 </description>
+    </item>
+    
+  </channel>
+</rss>
